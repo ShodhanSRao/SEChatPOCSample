@@ -22,6 +22,7 @@ import org.json.JSONObject;
  */
 public class LoginActivity extends Activity {
 
+    // A variable that saves the user name
     private EditText mUsernameView;
 
     private String mUsername;
