@@ -30,7 +30,6 @@ public class LoginActivity extends Activity {
 
     private Socket mSocket;
 
-    private int miLoginCount = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
