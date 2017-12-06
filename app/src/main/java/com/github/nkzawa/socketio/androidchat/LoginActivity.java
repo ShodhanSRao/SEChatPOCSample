@@ -30,6 +30,8 @@ public class LoginActivity extends Activity {
 
     private Socket mSocket;
 
+    private int miTestVariable;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
