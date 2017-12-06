@@ -23,11 +23,14 @@ import org.json.JSONObject;
 public class LoginActivity extends Activity {
 
     // A variable that saves the user name
+
     private EditText mUsernameView;
 
     private String mUsername;
 
     private Socket mSocket;
+
+    private int miLoginCount = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
