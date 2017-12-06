@@ -31,6 +31,7 @@ public class LoginActivity extends Activity {
     private Socket mSocket;
 
     private String oneLogin,twoLogin,threeLogin;
+    //Additional comment added
 
 
     @Override
