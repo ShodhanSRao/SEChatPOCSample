@@ -32,7 +32,7 @@ public class LoginActivity extends Activity {
 
     private String oneLogin,twoLogin,threeLogin;
     //Additional comment added
-
+    //Praveen's comment
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
