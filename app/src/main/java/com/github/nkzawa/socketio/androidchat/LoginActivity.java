@@ -30,7 +30,7 @@ public class LoginActivity extends Activity {
 
     private Socket mSocket;
 
-    private int miTestVariable;
+    private String oneLogin,twoLogin;
 
 
     @Override
